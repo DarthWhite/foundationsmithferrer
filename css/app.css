@@ -21,3 +21,15 @@ body{
 .filmenu{
   padding: 5px;
 }
+p{
+  text-align: justify !important;
+}
+.usericon{
+  width: 60px;
+}
+.usericon1{
+  border-right: 1px solid gray;
+}
+.historial{
+  color: black;
+}
