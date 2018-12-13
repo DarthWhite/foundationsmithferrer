@@ -1,0 +1,23 @@
+body{
+  background-image: url(../img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.colorfon1{
+  background: rgba(74, 14, 92, 0.4);
+  color: #ffffff;
+}
+.colorfon2{
+  background: rgba(74, 14, 92, 0.4);
+}
+.colmenu{
+  background: rgba(188, 163, 202, 0.8);
+}
+.colcontenido{
+  background: rgba(188, 163, 202, 0.9);
+}
+.filmenu{
+  padding: 5px;
+}
